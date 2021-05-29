@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **HTTP & Web API Basics**
 
-- 📫 How to reach me **davis.latiss@gmail.com**
+- 📫 How to reach me https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white **davis.latiss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
