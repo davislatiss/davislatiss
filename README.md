@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/davislatiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="davislatiss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davis-latiss-4908b693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="davis-latiss-4908b693" height="30" width="40" /></a>
-<a href="https://fb.com/davis.latiss" target="blank"><img align="center" src=https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465 alt="davis.latiss" height="30" width="40" /></a>
+<a href="https://fb.com/davis.latiss" target="blank"><img align="center" src=https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465 alt="davis.latiss" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
