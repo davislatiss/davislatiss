@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **my Portfolio website**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Rest Api's with Asp.Net and C#**
 
-- 🤝 I’m looking for help with **HTTP & Web API Basics**
+- 🤝 I’m looking for help with **HTTP & Web**
 
 - 📫 How to reach me  **davis.latiss@gmail.com**
 
